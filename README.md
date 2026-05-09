@@ -27,9 +27,9 @@ ecole-riham-web/
 |   |-- directrice.js
 |   |-- professeur.js
 |   `-- app.js
-`-- assets/
-    `-- logo.jpeg
 ```
+
+Le logo est integre directement dans `index.html` pour que la page GitHub Pages reste fonctionnelle sans upload binaire supplementaire.
 
 ## Securite importante
 
